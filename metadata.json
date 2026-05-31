@@ -1,0 +1,6 @@
+{
+  "name": "Quran AI",
+  "description": "An Advanced AI Quran Assistant providing authentic classical Tafsir, word-by-word translations, interactive quizzes, memorization progress tracking, and secure Gemini-powered learning modes in 8 languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
